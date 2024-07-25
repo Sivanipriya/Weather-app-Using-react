@@ -1,0 +1,33 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    overflow-x: hidden;
+}
+
+.out{
+    font-size:20px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+
+}
+.line{
+    text-decoration: line-through solid rgba(69, 68, 68,.5) 3px;
+}
+
+.circle{
+    width:80%;
+    display: flex;
+    align-items: center;
+    
+}
+.circle p{
+    margin-left: 20px;
+}
+.cross{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width:20%;
+}
