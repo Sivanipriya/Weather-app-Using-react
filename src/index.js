@@ -6,7 +6,6 @@ import reportWebVitals from './reportWebVitals';
 import Weather from './weather/Weat';
 
 
-// import To_do from './to-do-list/To-do';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
