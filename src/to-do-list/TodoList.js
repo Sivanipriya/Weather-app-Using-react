@@ -1,4 +1,4 @@
-import reac from "react";
+import React from "react";
 import cross from "./Assets/cross.png";
 import not_tick from "./Assets/not_tick.png";
 import tick from "./Assets/tick.png";
