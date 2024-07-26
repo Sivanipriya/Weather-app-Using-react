@@ -2,16 +2,12 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
 import reportWebVitals from './reportWebVitals';
-
-import Weather from './weather/Weat';
-
-
-// import To_do from './to-do-list/To-do';
+ import To_do from './to-do-list/To-do';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <Weather />
+    <To_do />
  
   </React.StrictMode>
 );
